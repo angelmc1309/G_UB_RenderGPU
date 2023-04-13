@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/configMapping.txt</file>
+        <file>resources/models/sphere1.obj</file>
+        <file>resources/configMappingData.txt</file>
+        <file>resources/data0.txt</file>
+        <file>resources/data10.txt</file>
+        <file>resources/models/f16.obj</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/models/capsule.obj</file>
+        <file>resources/models/suzanne.obj</file>
+        <file>resources/models/common-cockle.obj</file>
+        <file>resources/vshaderGouraud.glsl</file>
+        <file>resources/fshaderGouraud.glsl</file>
+        <file>resources/vshaderPhong.glsl</file>
+        <file>resources/fshaderPhong.glsl</file>
+        <file>resources/vshaderToon.glsl</file>
+        <file>resources/fshaderToon.glsl</file>
+        <file>resources/textures/2k_earth_clouds.jpg</file>
+        <file>resources/fshaderPhongText.glsl</file>
+        <file>resources/vshaderPhongText.glsl</file>
+        <file>resources/textures/bricks.png</file>
+        <file>resources/textures/2k_sun.jpg</file>
+        <file>resources/textures/MonkeyTex.png</file>
+        <file>resources/models/cruiser.obj</file>
+        <file>resources/textures/cruiser.bmp</file>
+        <file>resources/textures/F16s.bmp</file>
+        <file>resources/vshaderText.glsl</file>
+        <file>resources/fshaderText.glsl</file>
+        <file>resources/fshaderPhongTextNormal.glsl</file>
+        <file>resources/vshaderPhongTextNormal.glsl</file>
+        <file>resources/models/JUPITER.obj</file>
+        <file>resources/textures/jupiter.png</file>
+        <file>resources/textures/jupiterN.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+://resources/models/sphere0.obj,://resources/textures/MonkeyTex.png
+://resources/models/f16.obj,://resources/textures/F16s.bmp
