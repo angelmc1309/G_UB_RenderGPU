@@ -1,4 +1,7 @@
 # RenderGPU
+
+This repository contains the code developed as part of the subject of Computer Graphics in Universitat de Barcelona.
+
 Segona pràctica de GiVD 2020-21
 
     Ángel Morales Carrasco NIUB 20150546
